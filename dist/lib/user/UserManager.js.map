@@ -1,0 +1,1 @@
+{"version":3,"file":"UserManager.js","sourceRoot":"","sources":["../../../src/lib/user/UserManager.ts"],"names":[],"mappings":";;;AACA,wCAAqC;AAErC,MAAa,WAAY,SAAQ,iBAAO;IACtC;;;;OAIG;IACH,KAAK,CAAC,GAAG,CAAC,EAAU;QAClB,MAAM,GAAG,GAAG,MAAM,IAAI,CAAC,IAAI,CAAC,GAAG,CAAC,aAAa,EAAE,EAAE,CAAC,CAAC;QAEnD,OAAO,GAAG,CAAC,IAAkB,CAAC;IAChC,CAAC;CACF;AAXD,kCAWC"}
