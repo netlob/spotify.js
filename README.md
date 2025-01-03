@@ -6,9 +6,9 @@ An API wrapper for Spotify, written in Typescript. [Documentation](https://spoti
 
 ## Features
 
-- Automatic token refreshing
-- Authentication
-  - Client Credentials flow
+- Automatic token refreshing.
+- Authentication.
+  - Client Credentials flow.
   - Authorization Code flow (with `refreshToken`)
 
 ## Usage
